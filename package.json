@@ -7,7 +7,7 @@
     "esmangle"
   ],
   "homepage": "https://github.com/zertosh/esmangle-evaluator",
-  "licence": "MIT",
+  "license": "MIT",
   "author": "Andres Suarez <zertosh@gmail.com>",
   "main": "evaluator.js",
   "repository": {
